@@ -1,0 +1,9 @@
+name = "bestbarista-ee"
+pages_build_output_dir = "build"
+compatibility_date = "2025-04-21"
+
+[env.preview.vars]
+NODE_VERSION = "23.x"
+
+[env.production.vars]
+NODE_VERSION = "23.x"
