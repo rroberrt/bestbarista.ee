@@ -1,5 +1,5 @@
 name = "bestbarista-ee"
-pages_build_output_dir = "dist"
+pages_build_output_dir = "build"
 compatibility_date = "2025-04-21"
 
 [env.preview.vars]
